@@ -19,7 +19,7 @@ Evaluated on the held-out validation split:
 
 **Training curves** - 
 
-![Training results](results.results.png)
+![Training results](results/results.png)
 
 **Confusion matrix** - 
 
@@ -28,5 +28,5 @@ Evaluated on the held-out validation split:
 ## Next steps
 
 ## How to reproduce
-1. Open the training notebook: ['notebooks/train_yolo26_pcb.ipynb'](notebooks/train_yolo26_pcb.ipynb)
+1. Open the training notebook: ['notebooks/train_yolo26_pcb.ipynb'](notebooks/PCB_YOLO.ipynb)
 2. Dataset: [Roboflow - 
