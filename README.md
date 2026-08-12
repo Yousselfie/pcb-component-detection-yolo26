@@ -31,7 +31,7 @@ Evaluated on the held-out validation split:
 This project runs in **Google Colab** (free T4 GPU).
 
 1. Open the notebook in Colab:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/pcb-component-detection-yolo26/blob/main/notebooks/train_yolo26_pcb.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X6RskWSDTkcrkjov5aO498YneDImfPyj?usp=sharing)
 2. Set the runtime to GPU: **Runtime → Change runtime type → T4 GPU**.
 3. Dataset: PCB component detection dataset (Roboflow, YOLO format). Add your
    Roboflow API key in the dataset cell, or point the notebook at your own copy.
