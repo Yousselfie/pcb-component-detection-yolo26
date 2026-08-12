@@ -1,0 +1,10 @@
+#datasets and model weights
+*.pt
+*.zip
+datasets/
+runs/
+#images
+*.jpg
+*.png
+#except for result images
+!results/**
