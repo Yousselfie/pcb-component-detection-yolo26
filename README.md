@@ -14,16 +14,16 @@ Evaluated on the held-out validation split:
 |--------|-------|
 | mAP50  | 0.088      |
 | mAP50-95 |   0.052   |
-| Precision |      |
-| Recall |       |
+| Precision | 0.141     |
+| Recall |  0.164     |
 
 These are baseline numbers from an initial, deliberately short training run. They are low, and the analysis below explains why and how to improve them — reading a model's own metrics to diagnose its failure mode is part of the point of this project.
 
-**Training curves** - 
+**Training curves** 
 
 ![Training results](results/results.png)
 
-**Confusion matrix** - 
+**Confusion matrix** 
 
 ![Confusion matrix](results/confusion_matrix.png)
 
